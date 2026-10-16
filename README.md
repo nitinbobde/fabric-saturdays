@@ -12,7 +12,7 @@ Weekly Microsoft Fabric series on LinkedIn, from capacity architecture to AI. Wr
 | 13 | Fabric Data Agent: My Honest Take | [Read](https://lnkd.in/p/dcZTH2mi) |
 | 12 | Fabric vs. AI Foundry: Where Each One Ends | [Read](https://lnkd.in/p/dDb_bYsM) |
 | 11 | AI in Microsoft Fabric: The Big Picture | [Read](https://lnkd.in/ddrp4b8E) |
-| 10 | AI in Microsoft Fabric: The Big Picture | [Read](https://lnkd.in/p/d86J83Zi) |
+| 10 | 𝗠𝗼𝗻𝗶𝘁𝗼𝗿𝗶𝗻𝗴 & 𝗖𝗼𝘀𝘁 (𝗣𝗮𝗿𝘁 𝟮): 𝗦𝗺𝗼𝗼𝘁𝗵𝗶𝗻𝗴 𝘃𝘀. 𝗧𝗵𝗿𝗼𝘁𝘁𝗹𝗶𝗻𝗴 | [Read](https://lnkd.in/p/d86J83Zi) |
 | 9 | Monitoring & Cost (Part 1): Reading Your Capacity | [Read](https://lnkd.in/dp5Pgz6N) |
 | 8 (Part 2) | Streaming Data: Where Should Your Streaming Data Go? | [Read](https://lnkd.in/dYUQrKpJ) |
 | 8 (Part 1) | Streaming Data: Real-Time Ingestion | [Read](https://lnkd.in/dPtgkd9d) |
