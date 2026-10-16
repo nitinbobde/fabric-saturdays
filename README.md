@@ -1,35 +1,26 @@
 # Fabric Saturdays
 
-Weekly Microsoft Fabric series, from capacity architecture to AI. Each episode has a LinkedIn post and a PDF carousel, plus code where it applies.
-
-**Audience:** data and analytics professionals.
-**Data:** all sample data in this repo is synthetic.
+Weekly Microsoft Fabric series on LinkedIn, from capacity architecture to AI. Written for data and analytics professionals.
 
 ## Episodes
 
-| Week | Topic | Post | Folder |
-|------|-------|------|--------|
-| 1 | Capacity Architecture | [LinkedIn](#) | [01-capacity-architecture](episodes/01-capacity-architecture) |
-| 2 | Workspaces, Items, CI/CD | [LinkedIn](#) | [02-workspaces-items-cicd](episodes/02-workspaces-items-cicd) |
-| 3 | Shortcuts & Mirroring | [LinkedIn](#) | [03-shortcuts-mirroring](episodes/03-shortcuts-mirroring) |
-| 4 | Pipeline Ingestion Patterns | [LinkedIn](#) | [04-ingestion-patterns](episodes/04-ingestion-patterns) |
-| 5 | Bronze to Silver | [LinkedIn](#) | [05-bronze-to-silver](episodes/05-bronze-to-silver) |
-| 6 | Silver to Gold | [LinkedIn](#) | [06-silver-to-gold](episodes/06-silver-to-gold) |
-| 7 | Unstructured Data & Medallion Architecture | [LinkedIn](#) | [07-unstructured-medallion](episodes/07-unstructured-medallion) |
-| 8 | Streaming Data | [LinkedIn](#) | [08-streaming](episodes/08-streaming) |
-| 9 | Monitoring & Cost Optimization | [LinkedIn](#) | [09-monitoring-cost](episodes/09-monitoring-cost) |
-| 10 | AI in Fabric: Overview | [LinkedIn](#) | [10-ai-overview](episodes/10-ai-overview) |
-| 11 | AI Skills, Data Agents, Fabric IQ, Operations Agent, Fabric MCP | [LinkedIn](#) | [11-data-agents-iq-mcp](episodes/11-data-agents-iq-mcp) |
-| 12 | Fabric vs AI Foundry | [LinkedIn](#) | [12-fabric-vs-foundry](episodes/12-fabric-vs-foundry) |
-| 13 | Connecting a Published Fabric Data Agent | [LinkedIn](#) | [13-connecting-data-agent](episodes/13-connecting-data-agent) |
-
-## Repo structure
-
-- `episodes/NN-topic/`: one folder per week
-  - `README.md`: scope and key points
-  - `carousel.pdf`: the LinkedIn carousel
-  - `notebooks/` or `sql/`: code, where the episode has any
-- `data/`: small synthetic sample datasets
+| Week | Topic | Post |
+|------|-------|------|
+| 1 | Kickoff | [Read](https://lnkd.in/d3kPwUcQ) |
+| 2 | Environment Setup: Workspaces, Items & CI/CD | [Read](https://lnkd.in/dEZjazyf) |
+| 3 | Getting Data In: Shortcuts vs Mirroring | [Read](https://lnkd.in/drjuNUqn) |
+| 4 | Ingestion Patterns: Picking the Right Tool | [Read](https://lnkd.in/dUwpQj7Y) |
+| 5 | Bronze → Silver: The Transformation Tips | [Read](https://lnkd.in/d4P2DkBr) |
+| 6 | Silver → Gold: The Transformation Playbook | [Read](https://lnkd.in/d2tm68AE) |
+| 7 | Unstructured Data & the Medallion Architecture | [Read](https://lnkd.in/dr6CWuX6) |
+| 8 (Part 1) | Streaming Data: Real-Time Ingestion | [Read](https://lnkd.in/dPtgkd9d) |
+| 8 (Part 2) | Streaming Data: Where Should Your Streaming Data Go? | [Read](https://lnkd.in/dYUQrKpJ) |
+| 9 | Monitoring & Cost (Part 1): Reading Your Capacity | [Read](https://lnkd.in/dp5Pgz6N) |
+| 10 | AI in Microsoft Fabric: The Big Picture | [Read](https://lnkd.in/p/d86J83Zi) |
+| 11 | AI in Microsoft Fabric: The Big Picture | [Read](https://lnkd.in/ddrp4b8E) |
+| 12 | Fabric vs. AI Foundry: Where Each One Ends | [Read](https://lnkd.in/p/dDb_bYsM) |
+| 13 | Fabric Data Agent: My Honest Take | [Read](https://lnkd.in/p/dcZTH2mi) |
+| 14 | Fabric Data Agent: Two Ways to Connect | [Read](https://lnkd.in/p/dKEQ-scC) |
 
 ## About
 
